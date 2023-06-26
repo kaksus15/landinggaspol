@@ -58,3 +58,12 @@ sr.reveal(".contact", { interval: 200 });
 
 // Sponsor
 sr.reveal(".sponsor", {});
+
+// Scroll Register
+sr.reveal(".register", { delay: 100 });
+sr.reveal(".emaile", { delay: 700 });
+sr.reveal(".nama", { delay: 800 });
+sr.reveal(".passw", { delay: 600 });
+sr.reveal(".confirpsw", { delay: 800 });
+sr.reveal(".btn-reg", { delay: 200 });
+sr.reveal(".tex-reg", { delay: 100 });
